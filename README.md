@@ -13,6 +13,7 @@ i have also created two powershell scripts as follows;
 Notify User ---> This Application will query the database for any account that will expire within 7 days
 it will then email the User reminding them that there password is about to expire in X amount of Days. 
 
-Password Reset. ---> in the event that a User choices to irong the notification emails stating their 
+Password Reset. ---> Can be found on the Password.Txt File the program does the following; 
+in the event that a User choices to irong the notification emails stating their 
 account will expire in X amount of Days, this will automatically 
 give a temporary password for any account that will expire within 2 days
