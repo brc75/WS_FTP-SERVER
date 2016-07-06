@@ -10,6 +10,7 @@ Disable User Accounts. Reset Passwords.
 Reset Sub Account Passwords.  
 
 i have also created two powershell scripts as follows; 
+
 Notify User ---> This Application will query the database for any account that will expire within 7 days
 it will then email the User reminding them that there password is about to expire in X amount of Days. 
 
